@@ -24,6 +24,7 @@ To begin, as a developer, think about how the user will interact with the calend
 3. The user will enter an event in the time-block and click the save button to save that event. 
 4. When the user refreshes the page, the event saved will persist in the time-block.
 <img src="assets\images\dayscheduleimg.PNG" alt="Image of Work Day Schedule">
+
 [Click here to see work day scheduler](https://amandardz.github.io/Day-Schedule/)
 
 ## License
